@@ -1,0 +1,38 @@
+body {
+	background-color: white;
+	overflow-x: hidden;
+}
+.header-container{
+  height: 275px;
+  width:1500px;
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+  background-color:#570708;
+}
+.image-container{
+	height: 200px;
+	width: 175px;
+	position: relative;
+	left: 30px;
+	top: 30px;
+}
+.h1s{
+	color: white;
+	height: 300px;
+	width:1000px;
+	position: relative;
+	bottom: 145px;
+	left: 230px;
+	font-size:55px;
+	font-weight: lighter; 
+}
+.h2s{
+	color:white;
+	position: relative;
+	bottom:400px;
+	left: 230px;
+	font-weight: lighter;
+	font-size: 30px;
+
+}
